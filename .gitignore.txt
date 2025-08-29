@@ -1,3 +1,0 @@
-#ignore maven target folder
-
-target/
